@@ -36,7 +36,7 @@ Edit
 
 1. Clone the repo  
 
-   git clone https://github.com/afrin2315/ai_screen_resumer.git
+   git clone https://github.com/Zameer-7/ai_screen_resumer.git
    cd ai_screen_resumer
    
 2. Install dependencies
