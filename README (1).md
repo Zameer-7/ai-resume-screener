@@ -56,7 +56,9 @@ Educational institutions for placement prep
 
 👩‍💻 Author
 
-Afrin Kousar
-📧 Email: afrinkousar98@gmail.com
-🔗 LinkedIn: afrin-kousar
-🐙 GitHub: afrin2315
+Mohamed Zameer Z
+📧 Email: zameer.trichy@gmail.com
+📞 Phone: +91 7338021017
+🔗 LinkedIn: linkedin.com/in/mohamed-zameer-z
+💻 GitHub: github.com/Zameer-7
+
